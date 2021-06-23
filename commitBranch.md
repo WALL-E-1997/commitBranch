@@ -24,6 +24,8 @@
 
    ![image-20210623110055534](commitBranch.assets/image-20210623110055534.png)
 
+   ![image-20210623143456700](commitBranch.assets/image-20210623143456700.png)
+
 2. 提交到暂存区
 
    输入git add *
@@ -32,9 +34,15 @@
 
    输入git commit -m“msg”
 
+   ![image-20210623143537450](commitBranch.assets/image-20210623143537450.png)
+
 4. 指定远程github仓库地址
 
    输入git remote add origin git@github.com:WALL-E-1997/commitBranch.git
+
+   在此之前输入git remote -v无响应，输入之后显示
+
+   ![image-20210623143712055](commitBranch.assets/image-20210623143712055.png)
 
 5. 提交到远程
 
