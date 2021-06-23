@@ -36,7 +36,7 @@
 
    ![image-20210623143537450](commitBranch.assets/image-20210623143537450.png)
 
-4. 指定远程github仓库地址
+4. #### 指定远程github仓库地址
 
    输入git remote add origin git@github.com:WALL-E-1997/commitBranch.git
 
@@ -48,5 +48,7 @@
 
    git push -u origin master
 
-   
+   ![image-20210623143924509](commitBranch.assets/image-20210623143924509.png)
+
+上传成功
 
